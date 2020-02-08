@@ -1,7 +1,7 @@
 #S&P500 Analysis
 
 '''
-Analysis of S&P 500 index (market portfolio). Constructed two long-short
+Analysis of historical S&P 500 index's performance. Constructed two long-short
 strategies, based on:
 1. Jensen's alpha
 2. Momentum 
